@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">businessKineret</string>
+    <string name="ages">From birth to two years</string>
+    <string name="professional">Infant Development Professional</string>
+
+    <string name="firstStep"><a href="http://www.firststepmethod.com/">First Step- For Your Child\'s Development</a> \ngraduate</string>
+    <string name="phoneNumber">052-1234567</string>
+    <string name="mail">kineret@gmail.com</string>
+
+</resources>
